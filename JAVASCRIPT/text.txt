@@ -1,0 +1,31 @@
+FUNCTION
+function is a set of statement that perform a task.
+code should be reuseable.
+There are two types,user defined(udf) and pre defined function.
+Pre defined function(builin func) are func that build in already embeded in the program.
+User defined function also kmown as custom func or user func,
+It is created and defined by the user to perform the specific task or st of task.
+sytax:
+function funcname(){
+    statement
+}
+
+function call
+funcname()
+Ternary Operator
+short way of if else statementit is conditinal operator which evaluate eithier of two expression true or false.
+return statement used to exit fuction and return the value.it is typically used to at the end of function provide the result of the some operation.
+looping
+of is not support in obj
+CRUD-Create read update delete
+push-to insert the value
+pop-to delete (deletes last)
+shift-to deletes first obj
+unshift-
+splice-to replace particular index
+update- to upadte paticular value
+replace-to replace the value
+split-to separate eg: i am from dindigul ;output: i,am,from,dindigul
+include-checks whether the value is present or not eg:const pets=[dog,cat,rat] console.log(pet.includes('bat')) output gives true or false
+DOM 
+Create 
